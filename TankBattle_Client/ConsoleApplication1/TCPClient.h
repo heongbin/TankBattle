@@ -4,7 +4,7 @@
 
 #define PORT 8000
 #define BUFFER_SIZE 1024
-#define IP "10.30.10.219"
+#define IP "127.0.0.1"
 
 class TcpClient
 {

@@ -1,0 +1,5 @@
+C:\Users\cbcbc\Desktop\TankBattle(진)\TankBattle_Server\Server\Debug\Server.exe
+C:\Users\cbcbc\Desktop\TankBattle(진)\TankBattle_Server\Server\Debug\Server.pdb
+C:\Users\cbcbc\source\repos\TankBattlem\TankBattle_Server\Debug\Server.pdb
+C:\Users\cbcbc\source\repos\TankBattlem\TankBattle_Server\Server\Debug\Server.exe
+C:\Users\cbcbc\source\repos\TankBattlem\TankBattle_Server\Server\Debug\Server.pdb
