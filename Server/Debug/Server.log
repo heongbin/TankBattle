@@ -1,5 +1,0 @@
-﻿  main.cpp
-  TCPServer.cpp
-C:\Users\cbcbc\Desktop\새 폴더\TankBattle(진)\TankBattle_Server\Server\TCPServer.cpp(126,19): warning C4101: 'dword' :참조되지 않은 지역 변수입니다.
-  코드를 생성하고 있습니다...
-  Server.vcxproj -> C:\Users\cbcbc\Desktop\새 폴더\TankBattle(진)\TankBattle_Server\Debug\Server.exe
